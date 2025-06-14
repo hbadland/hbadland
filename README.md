@@ -1,9 +1,7 @@
 # Harry Badland
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=BSc+Chemistry+Graduate;Machine+Learning+Enthusiast;Computational+Chemistry+Researcher;Neural+Network+Developer)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=BSc+Chemistry+Graduate;Machine+Learning;Computational+Chemistry;Neural+Networks+)
 </div>
 
 ## 🧬 About Me
