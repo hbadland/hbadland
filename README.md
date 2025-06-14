@@ -1,4 +1,4 @@
-# Hi, I'm Harry! 👋
+# Harry Badland
 
 ## 🧬 About Me
 
