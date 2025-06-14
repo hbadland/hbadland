@@ -92,4 +92,3 @@ I'm a **BSc Chemistry graduate** with a passion for bridging the gap between com
 
 
 </div>
-```
