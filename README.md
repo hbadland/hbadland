@@ -15,7 +15,6 @@ I'm a **BSc Chemistry graduate** with a passion for bridging the gap between com
 - 🌱 **Learning**: Python, machine learning, and scientific computing
 - 📍 **Location**: London, UK
 - 💼 **Open to**: Opportunities in computational chemistry, data science, and model development
-- 🌐 **Website**: [Your Portfolio Website]([https://hbadland.github.io])
 
 ## 🛠️ Tech Stack
 
