@@ -45,16 +45,6 @@ I'm a **BSc Chemistry graduate** with a passion for bridging the gap between com
 
 > 💡 *More projects coming soon! Currently working on expanding my portfolio with chemistry-focused machine learning applications.*
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Harry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hbadland&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hbadland&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
 ## 🎓 Education & Background
 
 **Bachelor of Science in Chemistry**  
@@ -68,6 +58,16 @@ I'm a **BSc Chemistry graduate** with a passion for bridging the gap between com
 - 📋 **CV/Resume**: [Download PDF](link-to-your-cv.pdf) *(Upload your CV to your GitHub repository and link it here)*
 - 💼 **LinkedIn**: [Harry Badland](https://www.linkedin.com/in/harry-badland-099517237/)
 - 📧 **Email**: badlandh@icloud.com
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Harry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hbadland&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hbadland&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 
 ---
