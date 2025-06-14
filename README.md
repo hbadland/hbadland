@@ -10,25 +10,6 @@ I'm a **BSc Chemistry graduate** with a passion for bridging the gap between com
 - 📍 **Location**: London, UK
 - 💼 **Open to**: Opportunities in computational chemistry, data science, and model development
 
-## 🛠️ Skills & Technologies
-
-### Scientific Computing & Machine Learning
-- **PyTorch** - Neural network development and training
-- **NumPy/SciPy** - Scientific computing and data analysis
-- **Pandas** - Data manipulation and analysis
-- **Plotly/Matplotlib/Seaborn** - Data visualization
-- **Scikit-learn** - Machine learning workflows
-
-### Chemistry & Research Tools
-- **Molecular Dynamics** - TorchMD-NET for neural network potentials
-- **Computational Chemistry** - Quantum chemistry calculations
-- **Data Analysis** - Scientific data processing and visualization
-
-### Development Tools
-- **Git/GitHub** - Version control and collaboration
-- **Conda/Pip** - Package management
-- **PyCharm** - Development environment
-
 ## 🚀 Featured Projects
 
 ### 🧠 [TorchMD-NET Fork](https://github.com/hbadland/torchmd-net)
@@ -42,16 +23,6 @@ I'm a **BSc Chemistry graduate** with a passion for bridging the gap between com
 - Demonstrates understanding of image processing and computer vision
 - Python-based implementation with real-time processing
 - **Tech Stack**: Python, OpenCV, Computer Vision
-
-> 💡 *More projects coming soon! Currently working on expanding my portfolio with chemistry-focused machine learning applications.*
-
-## 🎓 Education & Background
-
-**Bachelor of Science in Chemistry**  
-*Cardiff University*
-- Strong foundation in analytical thinking and problem-solving
-- Experience with scientific research methodologies
-- Data analysis and interpretation skills
 
 ## 📄 CV & Professional Links
 
