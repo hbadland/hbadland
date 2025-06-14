@@ -16,7 +16,7 @@ I'm a **BSc Chemistry graduate** with a passion for bridging the gap between com
 - **PyTorch** - Neural network development and training
 - **NumPy/SciPy** - Scientific computing and data analysis
 - **Pandas** - Data manipulation and analysis
-- **Matplotlib/Seaborn** - Data visualization
+- **Plotly/Matplotlib/Seaborn** - Data visualization
 - **Scikit-learn** - Machine learning workflows
 
 ### Chemistry & Research Tools
@@ -26,9 +26,8 @@ I'm a **BSc Chemistry graduate** with a passion for bridging the gap between com
 
 ### Development Tools
 - **Git/GitHub** - Version control and collaboration
-- **Linux/Unix** - Command line proficiency
 - **Conda/Pip** - Package management
-- **VS Code** - Development environment
+- **PyCharm** - Development environment
 
 ## 🚀 Featured Projects
 
@@ -72,11 +71,3 @@ I'm a **BSc Chemistry graduate** with a passion for bridging the gap between com
 
 
 ---
-
-<div align="center">
-
-*"Combining the precision of chemistry with the power of computation"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=hbadland&color=brightgreen&style=flat-square)
-
-</div>
