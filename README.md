@@ -73,30 +73,6 @@ I'm a **BSc Chemistry graduate** with a passion for bridging the gap between com
 
 </div>
 
-## 🎯 Current Focus
-
-```python
-class HarryBadland:
-    def __init__(self):
-        self.name = "Harry Badland"
-        self.role = "Computational Chemistry Researcher"
-        self.language_spoken = ["en-GB"]
-        
-    def current_work(self):
-        return [
-            "Neural Network Potentials for Molecular Dynamics",
-            "Machine Learning in Chemistry",
-            "Scientific Computing with Python",
-            "Computer Vision Applications"
-        ]
-    
-    def future_goals(self):
-        return [
-            "PhD in Computational Chemistry",
-            "Contribute to Open Source ML/Chemistry Tools",
-            "Develop Novel ML Models for Materials Science"
-        ]
-```
 
 ## 📫 Let's Connect
 
@@ -105,7 +81,6 @@ class HarryBadland:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harry-badland-099517237/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badlandh@icloud.com)
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](your-website-link-here)
-[![CV](https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](link-to-your-cv.pdf)
 
 </div>
 
@@ -115,7 +90,6 @@ class HarryBadland:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hbadland&color=red&style=flat-square)
 
-*"Bridging the gap between chemistry and computation, one algorithm at a time."*
 
 </div>
 ```
