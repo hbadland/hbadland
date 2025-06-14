@@ -12,10 +12,10 @@ I'm a **BSc Chemistry graduate** with a passion for bridging the gap between com
 
 - 🔬 **Background**: Chemistry graduate from Cardiff University
 - 💻 **Current Focus**: Neural network potentials and computational chemistry
-- 🌱 **Learning**: Advanced Python, machine learning, and scientific computing
+- 🌱 **Learning**: Python, machine learning, and scientific computing
 - 📍 **Location**: London, UK
 - 💼 **Open to**: Opportunities in computational chemistry, data science, and model development
-- 🌐 **Website**: [Your Portfolio Website](your-website-link-here)
+- 🌐 **Website**: [Your Portfolio Website]([https://hbadland.github.io])
 
 ## 🛠️ Tech Stack
 
