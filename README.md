@@ -10,7 +10,7 @@
 
 I'm a **BSc Chemistry graduate** with a passion for bridging the gap between computational chemistry and machine learning. Based in **London**, I'm actively exploring the intersection of scientific research and modern programming techniques, with a particular focus on machine learning applications in chemistry and materials science.
 
-- 🔬 **Background**: Chemistry graduate from Cardiff University
+- 🔬 **Background**: Postgraduate Student at Imperial College London
 - 💻 **Current Focus**: Neural network potentials and computational chemistry
 - 🌱 **Learning**: Python, machine learning, and scientific computing
 - 📍 **Location**: London, UK
